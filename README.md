@@ -1,8 +1,19 @@
-E-commerce
-A fully-featured e-commerce web application built using modern web technologies, offering a seamless shopping experience for users .
+# AliExpress
 
-Key Features User Features: Product Catalog: Browse through a wide range of products with categories, filters, and search functionality. Product Details: Detailed view of products with images, descriptions, and pricing information. Shopping Cart: Add and manage items in the cart, including quantity adjustments and total price calculation. Checkout Process: Smooth checkout experience with address, payment, and order summary steps.
+## 📌 Overview
+AliExpress Clone is a full-featured e-commerce web application built with the react and Firebase for authentication. It replicates the core functionalities of AliExpress, including user authentication, product listings, cart management, and a seamless checkout experience.
 
-Technical Highlights: Frontend: Built with React.js for a fast and interactive user interface. State Management: Utilized Redux for managing the global state of the application.
+## 🚀 Features
 
-Technologies Used Frontend: React, Redux, Tailwind CSS Hosting: Netlify
+### 🔹 User Authentication
+- Firebase authentication (Signup/Login)
+- Password reset functionality
+
+### 🔹 Product Management
+- Browse and search for products
+- View product details with images and pricing
+- Add products to cart and manage quantity
+
+### 🔹 Shopping Cart & Checkout
+- Add/remove items from cart
+- Secure checkout with payment integration
